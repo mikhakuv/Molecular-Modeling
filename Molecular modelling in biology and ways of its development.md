@@ -10,7 +10,7 @@
 новой эры в развитии молекулярного моделирования, ведь именно в этом году началось распространение программы Model, написанной в Колумбийском университете. Она позволяла графически изобразить соединение с учётом заряда, гидрофобности и прочих характеристик. Уже в 1986 году была создана программа STRFIT, способная моделировать молекулярное взаимодействие без учёта валентных и торсионных углов. Современные программы молекулярного моделирования такие как GROMACS конечно учитывают валентные и торсионные углы химических связей и способны  моделировать достаточно масштабные и продолжительные молекулярные взаимодействия [[1]](#Использованные-источники).  
 
 ## Применение в биологии
-В биологии метод молекулярного моделирования применяется в широком спектре направлений:  
+В биологии метод молекулярного моделирования применяется в широком спектре направлений и даёт замечательные результаты:  
 * **Исследование механизмов взаимодействия белков:**  
 Если структура изучаемых белков известна, то можно смоделировать их взаимодействие в растворе. При этом нужно учесть как диффузионные, так и электростатические взаимодействия, а также присутствие внутри раствора ионов. Иногда процесс моделирования делится на несколько этапов: до сближения используются методы броуновской динамики, а после образования столкновительного комплекса используют методы молекулярной динамики.
 * **Исследование взаимодействия мембран с различными соединениями:**  
@@ -20,6 +20,6 @@
 
 
 ## Использованные источники
-[1] Matthew F. Schlecht *"Molecular Modeling on the PC"*
-[x] Mark S.P. Sandom et al *"Membrane Interactions ofα‑Synuclein Revealed by MultiscaleMolecular Dynamics Simulations, Markov State Models, and NMR"*
-[y] Luonan Chen et al *"Analysing the Effect of Mutation on Protein Function and Discovering Potential Inhibitors of CDK4: Molecular Modelling and Dynamics Studies"*
+[1] Matthew F. Schlecht *"Molecular Modeling on the PC"*  
+[x] Mark S.P. Sandom et al *"Membrane Interactions ofα‑Synuclein Revealed by MultiscaleMolecular Dynamics Simulations, Markov State Models, and NMR"*  
+[y] Luonan Chen et al *"Analysing the Effect of Mutation on Protein Function and Discovering Potential Inhibitors of CDK4: Molecular Modelling and Dynamics Studies"*  
