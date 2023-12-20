@@ -46,6 +46,7 @@ $$div(\varepsilon\cdot grad(\phi)) = -4\pi(\rho_p + \phi \frac{N_A e^{2} }{kT} \
 
 ## Использованные источники
 [1] Matthew F. Schlecht *"Molecular Modeling on the PC"*  
+[2] Andrew R. Leach *"Molecular Modelling: Principles and Applications"*  
 [z] Vannajan S. Lee et al *"Dynamics and binding interactions of peptide inhibitors of dengue virus entry"*  
 [x] Mark S.P. Sandom et al *"Membrane Interactions ofα‑Synuclein Revealed by MultiscaleMolecular Dynamics Simulations, Markov State Models, and NMR"*  
 [y] Luonan Chen et al *"Analysing the Effect of Mutation on Protein Function and Discovering Potential Inhibitors of CDK4: Molecular Modelling and Dynamics Studies"*  
